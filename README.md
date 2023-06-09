@@ -20,7 +20,7 @@ CoronaCheck App "Clone"
  npm start
 ```
 
-or inatall Yarn
+#or
 
 # Install CoronaCheck Website Clone (Yarn)
 ```
