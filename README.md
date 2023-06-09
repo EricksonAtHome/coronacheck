@@ -23,7 +23,6 @@ CoronaCheck App "Clone"
  npm start
 ```
 
-# or
 
 ![Screenshot](https://raw.githubusercontent.com/EricksonAtHome/coronacheck/main/Screenshot-2023-06-09-17.png "Screenshot")
 
