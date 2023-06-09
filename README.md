@@ -2,7 +2,7 @@
 CoronaCheck App "Clone"
 
 
-![Screenshot](https://12898/15186824/f2c9ba56-1774-11e6-944b-8309c6b9114e.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/EricksonAtHome/coronacheck/main/Screenshot-2023-06-09.png "Screenshot")
 
 
 # download the tar files from EH-Server.
