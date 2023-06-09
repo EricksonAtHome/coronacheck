@@ -1,5 +1,7 @@
 # CoronaCheck | Website Clone
-CoronaCheck App "Clone"
+Veilig reizen met jouw coronabewijs: Jouw sleutel tot een zorgeloze reis
+
+"Ga je binnenkort naar het buitenland? Controleer voor vertrek op Nederland Wereldwijd of een coronabewijs vereist is. Je kunt een bewijs verkrijgen als je bent gevaccineerd, een negatieve testuitslag hebt of als je bent hersteld van corona. Download de app om je bewijs op je telefoon te hebben of vraag een papieren bewijs aan."
 
 
 ![Screenshot](https://raw.githubusercontent.com/EricksonAtHome/coronacheck/main/Screenshot-2023-06-09.png "Screenshot")
